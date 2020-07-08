@@ -1,0 +1,5 @@
+channels:
+        - bioconda
+        - defaults
+dependencies:
+        - clustalo=1.2.3

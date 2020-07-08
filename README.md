@@ -10,9 +10,12 @@
 
 ## Environment setup
 
-- A user should have Snakemake and Conda installed
-- Tested with Conda version 4.8.3 and snakemake version 3.13.3
+- A user should have Conda installed
+- Tested with Conda version 4.8.3
 - Tested on Ubuntu 18.04
+
+> conda env create -f envs/main.yml
+> conda activate snakemake_workflows
 
 ---
 ## Usage (local machine only)

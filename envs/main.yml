@@ -1,0 +1,10 @@
+name: snakemake_workflows
+channels:
+        - bioconda
+        - conda-forge
+        - defaults
+dependencies:
+        - snakemake=5
+        - python
+        - jupyter
+        - graphviz
