@@ -1,3 +1,5 @@
 tmp/*
 data/*
 .snakemake/*
+*.ipynb_checkpoints*
+.Snakefile.swp

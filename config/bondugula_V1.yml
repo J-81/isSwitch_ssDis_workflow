@@ -1,0 +1,8 @@
+
+Bondugula_version: 0
+
+scop_version: 1.75 # available as of 2020, July 21st:  2.07, 2.06, 2.05, 2.04, 2.03, 2.02, 2.01, 1.75, 1.73, 1.71, 1.69, 1.67, 1.65, 1.63, 1.61, 1.59, 1.57, 1.55 
+#scop_identity_cutoff: 25 # a percentage value # dropped, now get full list 
+
+# mmseqs2
+min_seq_id: 0.98 # a percentage in decimal format

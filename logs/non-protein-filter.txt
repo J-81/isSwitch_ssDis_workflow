@@ -1,0 +1,3 @@
+Removed 32732 non-protein records
+Retained 532619 protein records
+Parsed a total of 565351 records
